@@ -1,4 +1,4 @@
-# JPT
+# JustPostTwitter
 
 ただTwitterに投稿するだけのクライアント
 
