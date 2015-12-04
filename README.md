@@ -2,7 +2,9 @@
 
 ただTwitterに投稿するだけのクライアント
 
+
 JustPostTwitter.java //プログラムから直接送信する
+
 Application2.java　//アプリプログラム
 
 
